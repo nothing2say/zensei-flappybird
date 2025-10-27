@@ -1,2 +1,2 @@
 # zensei-flappybird
-Teach game dev flappy bird
+Teach basic game development by example > classic flappy bird game
